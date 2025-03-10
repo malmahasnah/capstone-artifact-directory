@@ -2,4 +2,11 @@ Title:
 <A Causal Approach to Understanding Student Depression>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Our project aims to establish a framework for the root causes of depression,
+specifically for students. To do this, we utilize various causal mechanisms to
+investigate and analyze features that could potentially be directly related to
+depression. While past projects have focused on uncontrollable factors, our
+goal is to focus on modifiable aspects. The ultimate goal here is to under-
+stand exactly what aspects of a potential student’s life may be contributing to
+depression, and set a foundation to make improvements and emphasize the
+importance of providing targeted resources for students’ mental health.>
